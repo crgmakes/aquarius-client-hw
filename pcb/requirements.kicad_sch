@@ -25,7 +25,7 @@
 		)
 		(uuid "8f4a163b-d860-4d22-9f0d-fa7e3881edd2")
 	)
-	(text_box "BASIC\n\n* ATTiny1616 Processor\n* Adafruit Seesaw Protocol\n* Power In/Out Ports\n* Optional Pull Ups for I2C\n* I2C Address Selection (2-bits)"
+	(text_box "BASIC\n\n* RP2040\n* Adafruit Seesaw Protocol\n* Power In/Out Ports\n* Internal and External I2C Bus\n* Optional Pull Ups for Ext I2C\n* I2C Address Selection (2-bits)\n"
 		(exclude_from_sim yes)
 		(at 19.05 32.385 0)
 		(size 69.85 55.88)
@@ -50,7 +50,7 @@
 		)
 		(uuid "520c8b49-dad7-48c2-8b36-5125baaea506")
 	)
-	(text_box "Interfaces:\n* 2 - Power\n* 2 - QWICC\n* 1 - Serial\n\nOUTPUT:\n* Status LEDs\n* 1 5V Power\n* 1 3.3V Power"
+	(text_box "Interfaces:\n* 2 - Power\n* 2 - QWICC\n* 1 - Serial\n* 1 - Debug\nOUTPUT:\n* Status LEDs\n* External LED Port\n* 1 5V Power\n* 1 3.3V Power"
 		(exclude_from_sim yes)
 		(at 161.29 32.385 0)
 		(size 69.215 55.88)
