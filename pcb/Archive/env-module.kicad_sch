@@ -3220,7 +3220,7 @@
 		(fields_autoplaced yes)
 		(uuid "014cda66-b132-422f-a3af-7e64e828cf98")
 		(property "Reference" "H1"
-			(at 151.13 170.1799 0)
+			(at 151.13 170.2378 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3228,17 +3228,15 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
-			(at 151.13 172.7199 0)
+		(property "Value" "MountingHole"
+			(at 157.6213 172.6621 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" ""
 			(at 148.59 171.45 0)
 			(effects
 				(font
@@ -3265,14 +3263,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 148.59 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(instances
 			(project "relay-module"
 				(path "/445c1fff-2e1a-48b1-a91f-a137832edebf"
@@ -3287,7 +3277,7 @@
 		(at 260.35 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3301,7 +3291,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" ""
 			(at 258.064 170.18 0)
 			(effects
 				(font
@@ -3311,7 +3301,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Logos:Aquarius Logo 5mm"
-			(at 261.874 178.308 0)
+			(at 262.636 183.134 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3330,41 +3320,6 @@
 		)
 		(property "Description" ""
 			(at 258.064 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 260.35 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" ""
-			(at 260.35 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 260.35 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
-			(at 260.35 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3392,7 +3347,7 @@
 		(fields_autoplaced yes)
 		(uuid "3ac1986b-5531-49fd-a2e7-2b1f49a44339")
 		(property "Reference" "H3"
-			(at 151.13 180.3399 0)
+			(at 151.13 180.3978 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3400,17 +3355,15 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
-			(at 151.13 182.8799 0)
+		(property "Value" "MountingHole"
+			(at 157.6213 182.8221 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" ""
 			(at 148.59 181.61 0)
 			(effects
 				(font
@@ -3437,14 +3390,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 148.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(instances
 			(project "relay-module"
 				(path "/445c1fff-2e1a-48b1-a91f-a137832edebf"
@@ -3458,9 +3403,9 @@
 		(lib_id "Graphic:Logo_Open_Hardware_Small")
 		(at 271.78 175.26 0)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "427a67e8-39bb-47e8-9431-df44e1bff056")
@@ -3473,7 +3418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Logo_Open_Hardware_Small"
 			(at 271.78 180.975 0)
 			(effects
 				(font
@@ -3482,7 +3427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Symbol:OSHW-Logo_5.7x6mm_SilkScreen"
+		(property "Footprint" ""
 			(at 271.78 175.26 0)
 			(effects
 				(font
@@ -3509,6 +3454,14 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" "0"
+			(at 278.6935 174.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project ""
 				(path "/445c1fff-2e1a-48b1-a91f-a137832edebf"
@@ -3529,7 +3482,7 @@
 		(fields_autoplaced yes)
 		(uuid "934edb26-4e56-4000-925b-55a79d442001")
 		(property "Reference" "H2"
-			(at 151.13 175.2599 0)
+			(at 151.13 175.3178 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3537,17 +3490,15 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
-			(at 151.13 177.7999 0)
+		(property "Value" "MountingHole"
+			(at 157.6213 177.7421 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" ""
 			(at 148.59 176.53 0)
 			(effects
 				(font
@@ -3574,14 +3525,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 148.59 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(instances
 			(project "relay-module"
 				(path "/445c1fff-2e1a-48b1-a91f-a137832edebf"
@@ -3596,7 +3539,7 @@
 		(at 248.92 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "a91e816a-df55-49aa-be36-71b17a662836")
@@ -3609,7 +3552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" ""
 			(at 248.92 173.99 0)
 			(effects
 				(font
@@ -3617,7 +3560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CRGM Logos:CRGM Logo 5mm"
+		(property "Footprint" "CRGM Logos:CRGM Logo 10mm"
 			(at 248.92 182.118 0)
 			(effects
 				(font
@@ -3644,33 +3587,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
-			(at 248.92 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 248.92 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
-			(at 248.92 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project ""
 				(path "/445c1fff-2e1a-48b1-a91f-a137832edebf"
@@ -3685,7 +3601,7 @@
 		(at 237.49 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3699,7 +3615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" ""
 			(at 235.204 170.18 0)
 			(effects
 				(font
@@ -3709,7 +3625,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Logos:Aquarius Logo 5mm"
-			(at 239.014 178.308 0)
+			(at 239.776 183.134 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3728,41 +3644,6 @@
 		)
 		(property "Description" ""
 			(at 235.204 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 237.49 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" ""
-			(at 237.49 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 237.49 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
-			(at 237.49 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3790,7 +3671,7 @@
 		(fields_autoplaced yes)
 		(uuid "f32028a5-6e48-4576-ae68-1f6cfc1f1bd3")
 		(property "Reference" "H4"
-			(at 151.13 185.4199 0)
+			(at 151.13 185.4778 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3798,17 +3679,15 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
-			(at 151.13 187.9599 0)
+		(property "Value" "MountingHole"
+			(at 157.6213 187.9021 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" ""
 			(at 148.59 186.69 0)
 			(effects
 				(font
@@ -3833,14 +3712,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 148.59 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(instances

@@ -50,7 +50,7 @@
 		)
 		(uuid "23997fd7-e433-4585-bfe0-6f8e98b97bbb")
 	)
-	(text_box "BASIC\n\n* Wireless to send/rcv commands\n* 4 PWM/Servo Outputs\n* 2 Relay Outputs\n* 1 ADC\n* 1 I2C Bus\n* 2 Power Ports - In & Out"
+	(text_box "BASIC\n\n* Wireless to send/rcv commands\n* 1 ADC\n* 4 PWM/Servo Outputs\n* 1 I2C Bus\n* 2 Power Ports - In & Out\n"
 		(exclude_from_sim yes)
 		(at 17.78 30.48 0)
 		(size 85.09 55.88)

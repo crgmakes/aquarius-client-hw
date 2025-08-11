@@ -531,10 +531,6 @@
       },
       {
         "netclass": "Power",
-        "pattern": "/Power/V5_IN"
-      },
-      {
-        "netclass": "Power",
         "pattern": "+5V"
       },
       {
@@ -544,6 +540,18 @@
       {
         "netclass": "Power",
         "pattern": "V5_RAW"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "*LINE*"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "USB_5V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "LDO*"
       }
     ]
   },
@@ -622,6 +630,12 @@
         },
         {
           "group_by": false,
+          "label": "Dielectric",
+          "name": "Dielectric",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "Digikey",
           "name": "Digikey",
           "show": false
@@ -678,6 +692,18 @@
           "group_by": false,
           "label": "Sim.Pin",
           "name": "Sim.Pin",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Tolerance",
+          "name": "Tolerance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "WVDC",
+          "name": "WVDC",
           "show": false
         },
         {
