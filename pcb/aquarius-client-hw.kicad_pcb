@@ -878,6 +878,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -889,6 +890,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2163,7 +2165,7 @@
 			(size 1.2 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.208333)
-			(uuid "ba2fafea-a08b-4404-8fa8-a1ed0942ea99")
+			(uuid "9cd0ea3a-fe76-489d-a0b3-978d919c01f6")
 		)
 		(embedded_fonts no)
 		(model "${KICAD_USER_DIR}/Library/models/BM03B-SRSS-TB.step"
@@ -2192,6 +2194,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2203,6 +2206,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4022,6 +4026,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4033,6 +4038,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7268,12 +7274,12 @@
 			(size 1.2 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.208333)
-			(uuid "c1b26c8f-5863-488c-9382-f81c95aef8c8")
+			(uuid "ec3f4e9a-86f9-4980-8667-d7ce46c2ab6f")
 		)
 		(embedded_fonts no)
 		(model "${KICAD_USER_DIR}/Library/models/BM03B-SRSS-TB.step"
 			(offset
-				(xyz 0 -1.5 0)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -10842,12 +10848,12 @@
 			(size 1.2 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.208333)
-			(uuid "55cfd9c9-91c1-4237-86ae-bc6cb26331a4")
+			(uuid "c51fae51-aca8-424a-a5ce-2ec8417cfbcf")
 		)
 		(embedded_fonts no)
 		(model "${KICAD_USER_DIR}/Library/models/BM03B-SRSS-TB.step"
 			(offset
-				(xyz 0 -1.5 0)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -12503,7 +12509,7 @@
 			(size 1.2 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.208333)
-			(uuid "9b0e4f62-d988-4134-8804-15a7bed0d9e3")
+			(uuid "a853bbcb-29e7-4497-b4c6-258191b71085")
 		)
 		(embedded_fonts no)
 		(model "${KICAD_USER_DIR}/Library/models/BM03B-SRSS-TB.step"
@@ -12975,7 +12981,7 @@
 			(size 1.2 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.208333)
-			(uuid "25e635e0-3c83-4f8a-af35-12d6ab673c55")
+			(uuid "446dd0ee-0581-4c98-b17b-b0317f60b9c4")
 		)
 		(embedded_fonts no)
 		(model "${KICAD_USER_DIR}/Library/models/BM03B-SRSS-TB.step"
@@ -14075,7 +14081,7 @@
 			(size 1.2 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.208333)
-			(uuid "04201310-737b-4e50-a36b-d3fd13cdd8c2")
+			(uuid "150075e8-bd0d-45f5-b284-c4132e6385a6")
 		)
 		(embedded_fonts no)
 		(model "${KICAD_USER_DIR}/Library/models/BM03B-SRSS-TB.step"
@@ -21172,7 +21178,7 @@
 			(size 1.2 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.208333)
-			(uuid "99d867c9-abe1-4782-8e45-8796ee264b43")
+			(uuid "1460d264-2144-4e62-a8f5-7ddd0bb2f91a")
 		)
 		(embedded_fonts no)
 		(model "${KICAD_USER_DIR}/Library/models/BM03B-SRSS-TB.step"
@@ -22113,7 +22119,7 @@
 			(size 1.2 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.208333)
-			(uuid "77e1ade3-efdf-4749-9303-dcf3a5c216cf")
+			(uuid "404f9416-7f11-4034-883f-bf74cc5d3c25")
 		)
 		(embedded_fonts no)
 		(model "${KICAD_USER_DIR}/Library/models/BM03B-SRSS-TB.step"
@@ -22657,7 +22663,7 @@
 			(size 1.2 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.208333)
-			(uuid "cab7b948-7717-4c8e-9238-a7d4f4894508")
+			(uuid "fd06045b-b6d7-4a9a-90ac-2e094611995c")
 		)
 		(embedded_fonts no)
 		(model "${KICAD_USER_DIR}/Library/models/SM04B-SRSS-TB.step"
@@ -24295,7 +24301,7 @@
 			(size 1.2 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.208333)
-			(uuid "ef481384-3634-4611-8c21-a8b3f140bb53")
+			(uuid "bd8c47af-6b45-4293-a830-1cdc88e5a86a")
 		)
 		(embedded_fonts no)
 		(model "${KICAD_USER_DIR}/Library/models/BM03B-SRSS-TB.step"
@@ -25392,7 +25398,7 @@
 			(size 1.2 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.208333)
-			(uuid "f892aa87-6a2b-4eb2-94e7-17f25540804b")
+			(uuid "096d7ea3-f25c-4ecb-a411-1eaf08ec70bf")
 		)
 		(embedded_fonts no)
 		(model "${KICAD_USER_DIR}/Library/models/SM04B-SRSS-TB.step"
@@ -26230,7 +26236,7 @@
 			(size 1.2 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.208333)
-			(uuid "705da73b-f030-4c3a-bcc2-0be8ab9ee995")
+			(uuid "109a871d-1db0-4f6e-a25e-f0270a4fe290")
 		)
 		(embedded_fonts no)
 		(model "${KICAD_USER_DIR}/Library/models/BM03B-SRSS-TB.step"
@@ -27656,6 +27662,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27667,6 +27674,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
