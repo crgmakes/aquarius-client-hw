@@ -5,7 +5,7 @@
 	(uuid "0719e832-1413-43f4-a7d6-5b760ae13c21")
 	(paper "A4")
 	(title_block
-		(title "Client")
+		(title "Client Hardware")
 		(date "<<release-date>>")
 		(rev "<<tag>>")
 		(company "CRG Makes")

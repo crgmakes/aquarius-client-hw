@@ -5,7 +5,7 @@
 	(uuid "9def96dd-0c62-498d-8961-f9b6677a2968")
 	(paper "A4")
 	(title_block
-		(title "Client")
+		(title "Client Hardware")
 		(date "<<release-date>>")
 		(rev "<<tag>>")
 		(comment 1 "<<hash>>")

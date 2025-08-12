@@ -5,7 +5,7 @@
 	(uuid "6f876faf-a2fb-4b55-acaf-9b0ee9368edb")
 	(paper "A4")
 	(title_block
-		(title "Client")
+		(title "Client Hardware")
 		(date "<<release-date>>")
 		(rev "<<tag>>")
 		(comment 1 "<<hash>>")
@@ -150,7 +150,7 @@
 		)
 		(uuid "91565f41-eb83-4319-a8a5-8d545fbb80c1")
 	)
-	(text_box "Environment Sensors\n\n* Temperature\n* Light\n* Humidity\n* VOC\n* Particle\n* CO2\n* NOX"
+	(text_box "Sensors\n\n* Temperature\n* Light\n* Humidity\n* VOC\n* Particle\n* CO2\n* NOX"
 		(exclude_from_sim yes)
 		(at 103.886 30.48 0)
 		(size 85.09 55.88)

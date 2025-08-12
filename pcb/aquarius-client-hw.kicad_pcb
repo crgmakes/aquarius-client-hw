@@ -2123,6 +2123,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2134,6 +2135,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3326,7 +3328,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/f32028a5-6e48-4576-ae68-1f6cfc1f1bd3")
 		(sheetname "/")
-		(sheetfile "env-module.kicad_sch")
+		(sheetfile "aquarius-client-hw.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -6147,6 +6149,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6158,6 +6161,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8610,7 +8614,7 @@
 		)
 		(path "/c48ad48e-7899-4e96-b97b-fb9171d886d6")
 		(sheetname "/")
-		(sheetfile "env-module.kicad_sch")
+		(sheetfile "aquarius-client-hw.kicad_sch")
 		(attr exclude_from_bom)
 		(fp_poly
 			(pts
@@ -10893,6 +10897,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10904,6 +10909,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11729,6 +11735,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11740,6 +11747,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14292,6 +14300,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14303,6 +14312,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15615,7 +15625,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/014cda66-b132-422f-a3af-7e64e828cf98")
 		(sheetname "/")
-		(sheetfile "env-module.kicad_sch")
+		(sheetfile "aquarius-client-hw.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -16697,7 +16707,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "78dcdb0b-41fc-4856-acc6-6720f912fb37")
 		)
 		(pad "41" smd rect
 			(at -2.9 2.46)
@@ -16708,7 +16718,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "d9920629-3d99-4df1-b059-d6118b15e836")
 		)
 		(pad "41" thru_hole circle
 			(at -2.9 3.16)
@@ -16721,7 +16731,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "ecf6a4c9-db25-43f7-94fd-ff245bf12bbb")
 		)
 		(pad "41" smd rect
 			(at -2.9 3.86)
@@ -16732,7 +16742,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "e020147b-484d-42f1-b8b9-b98d1d9b55ca")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 1.06)
@@ -16745,7 +16755,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "4f7f9c6b-3d74-4f2c-9e7b-8d0c5b2eccfa")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 2.46)
@@ -16758,7 +16768,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "13aa2dfc-1605-4705-9430-dd595d8b9069")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 3.86)
@@ -16771,7 +16781,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "a2e2c631-1a5a-421a-8efd-c4ad04eedf07")
 		)
 		(pad "41" smd rect
 			(at -1.5 1.06)
@@ -16782,7 +16792,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "e1018cdf-3889-4259-aced-7480139fb5b4")
 		)
 		(pad "41" thru_hole circle
 			(at -1.5 1.76)
@@ -16795,7 +16805,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "e5d7f753-ed1b-42d8-9708-b45e4e4f1950")
 		)
 		(pad "41" smd rect
 			(at -1.5 2.46)
@@ -16806,7 +16816,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "04ee7c00-4e45-461b-9e80-96467629d29f")
 		)
 		(pad "41" thru_hole circle
 			(at -1.5 3.16)
@@ -16819,7 +16829,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "9716664b-9452-48ac-b1ff-687ae8bb9b63")
 		)
 		(pad "41" smd rect
 			(at -1.5 3.86)
@@ -16830,7 +16840,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "f29f4231-2205-41b8-b13a-49b22582b12c")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 1.06)
@@ -16843,7 +16853,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "07b38121-8a0f-4b04-a067-c566c55501ac")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 2.46)
@@ -16856,7 +16866,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "5c4889fe-173b-4ca2-86e2-03a518bbef76")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 3.86)
@@ -16869,7 +16879,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "5e40f521-87f3-4c24-9a25-574b7eecb9a9")
 		)
 		(pad "41" smd rect
 			(at -0.1 1.06)
@@ -16880,7 +16890,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "10ee4d58-6d54-4209-b210-6a86f8336ae5")
 		)
 		(pad "41" thru_hole circle
 			(at -0.1 1.76)
@@ -16893,7 +16903,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "4e9be7b9-b680-4f6d-bedf-23205013efe2")
 		)
 		(pad "41" smd rect
 			(at -0.1 2.46)
@@ -16904,7 +16914,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "d8c8596f-fa7d-4948-8ed2-ff46f13209bc")
 		)
 		(pad "41" thru_hole circle
 			(at -0.1 3.16)
@@ -16917,7 +16927,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "28c839b1-293a-4be6-8327-17d1b4680d3d")
 		)
 		(pad "41" smd rect
 			(at -0.1 3.86)
@@ -16928,7 +16938,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "0e28b9ea-b139-4107-a6f5-cfbd550eb8c0")
+			(uuid "d1dbb81e-8cf0-440b-be9f-9bfa38b68e2a")
 		)
 		(zone
 			(net 0)
@@ -20419,7 +20429,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/3ac1986b-5531-49fd-a2e7-2b1f49a44339")
 		(sheetname "/")
-		(sheetfile "env-module.kicad_sch")
+		(sheetfile "aquarius-client-hw.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -25543,6 +25553,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -25554,6 +25565,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -26731,7 +26743,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/934edb26-4e56-4000-925b-55a79d442001")
 		(sheetname "/")
-		(sheetfile "env-module.kicad_sch")
+		(sheetfile "aquarius-client-hw.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -28615,6 +28627,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28627,6 +28640,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30174,6 +30188,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30186,6 +30201,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33119,7 +33135,7 @@
 		)
 		(path "/09d9148f-1229-4803-811b-930601a71154")
 		(sheetname "/")
-		(sheetfile "env-module.kicad_sch")
+		(sheetfile "aquarius-client-hw.kicad_sch")
 		(attr exclude_from_bom)
 		(fp_poly
 			(pts
@@ -35665,7 +35681,7 @@
 		)
 		(path "/a91e816a-df55-49aa-be36-71b17a662836")
 		(sheetname "/")
-		(sheetfile "env-module.kicad_sch")
+		(sheetfile "aquarius-client-hw.kicad_sch")
 		(attr exclude_from_bom)
 		(fp_poly
 			(pts
@@ -38505,6 +38521,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -38517,6 +38534,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -39356,7 +39374,7 @@
 		)
 		(path "/427a67e8-39bb-47e8-9431-df44e1bff056")
 		(sheetname "/")
-		(sheetfile "env-module.kicad_sch")
+		(sheetfile "aquarius-client-hw.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_poly
 			(pts

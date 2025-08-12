@@ -5,7 +5,7 @@
 	(uuid "41e2109f-2ecd-4cae-ba6c-26cfcb8af5f2")
 	(paper "A4")
 	(title_block
-		(title "Client")
+		(title "Client Hardware")
 		(date "<<release-date>>")
 		(rev "<<tag>>")
 		(comment 1 "<<hash>>")
@@ -1546,7 +1546,7 @@
 	)
 	(rectangle
 		(start 15.24 78.74)
-		(end 75.565 177.8)
+		(end 75.565 168.148)
 		(stroke
 			(width 0.254)
 			(type dash)
@@ -1600,14 +1600,14 @@
 	)
 	(text "Servo"
 		(exclude_from_sim no)
-		(at 16.002 173.736 0)
+		(at 15.24 168.148 0)
 		(effects
 			(font
 				(size 3 3)
 				(thickness 0.6)
 				(bold yes)
 			)
-			(justify left)
+			(justify left bottom)
 		)
 		(uuid "3eddfd86-e5f7-4dc2-8baf-134e64a889fb")
 	)
