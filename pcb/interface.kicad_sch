@@ -5,7 +5,7 @@
 	(uuid "41e2109f-2ecd-4cae-ba6c-26cfcb8af5f2")
 	(paper "A4")
 	(title_block
-		(title "Environment Module")
+		(title "Client")
 		(date "<<release-date>>")
 		(rev "<<tag>>")
 		(comment 1 "<<hash>>")
@@ -36,7 +36,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "Connector_JST:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
+			(property "Footprint" "CRGM Connector:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
 				(at 1.27 8.89 0)
 				(effects
 					(font
@@ -61,14 +61,6 @@
 						(size 1.27 1.27)
 					)
 					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(symbol "JST-SH-3_1_0"
@@ -185,9 +177,8 @@
 				(at 0 0.254 0)
 				(effects
 					(font
-						(size 1.778 1.778)
-						(thickness 0.3556)
-						(bold yes)
+						(size 1.27 1.27)
+						(thickness 0.2223)
 					)
 					(justify left bottom)
 				)
@@ -203,7 +194,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "Connector_JST:JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical"
+			(property "Footprint" "CRGM Connector:JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical"
 				(at 3.048 5.842 0)
 				(effects
 					(font
@@ -488,9 +479,8 @@
 				(at 0 0.254 0)
 				(effects
 					(font
-						(size 1.778 1.778)
-						(thickness 0.3556)
-						(bold yes)
+						(size 1.27 1.27)
+						(thickness 0.1588)
 					)
 					(justify left bottom)
 				)
@@ -506,7 +496,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "CRGM Connector:BM04B-SRSS-TB"
+			(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
 				(at 4.572 -18.034 0)
 				(effects
 					(font
@@ -7605,7 +7595,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 8 Position Vertical"
+		(property "Description" "8 position, 1mm connector"
 			(at 215.9 99.06 0)
 			(effects
 				(font

@@ -5,7 +5,7 @@
 	(uuid "445c1fff-2e1a-48b1-a91f-a137832edebf")
 	(paper "A4")
 	(title_block
-		(title "Environment Module")
+		(title "Client")
 		(date "<<release-date>>")
 		(rev "<<tag>>")
 		(comment 1 "<<hash>>")
