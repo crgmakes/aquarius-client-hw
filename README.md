@@ -1,6 +1,6 @@
-# Environment Module
+# Aquarius Client Hardware
 
-All the source files for the environment module hardware.
+All the source files for the client hardware.
 
 # Software 
 
