@@ -1,11 +1,11 @@
 # Aquarius - Automation Simplified
 #
-# @brief Git script for exporting PCB data for Servo Module
+# @brief Git script for exporting PCB data for the repo.
 # @note runs manually or automatically when there is a release
-# @date 6/11/25
+# @date 8/13/25
 # @author cyberreefguru
 # (c) CRG Makes 2025
-name: Aquarius-Servo-Module-Release
+name: Aquarius-Client-Hardware-Release
 on:
   release:
     types: [published]
@@ -15,5 +15,5 @@ jobs:
   call-export-pcb:
     uses: crgmakes/kicad-extras/.github/workflows/aquarius-pcb-release.yaml@main
     with:
-      repo-name: module-servo
-      file-name: servo-module
+      repo-name: aquarius-client-hw
+      file-name: aquarius-client-hw
