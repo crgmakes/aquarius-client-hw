@@ -5,7 +5,7 @@
 # @date 8/13/25
 # @author cyberreefguru
 # (c) CRG Makes 2025
-name: Aquarius-Client-Hardware-Release
+name: Aquarius-Client-Release
 on:
   release:
     types: [published]
@@ -13,7 +13,8 @@ on:
 
 jobs:
   call-export-pcb:
-    uses: crgmakes/kicad-extras/.github/workflows/aquarius-pcb-release.yaml@main
+    uses: crgmakes/kicad-extras/.github/workflows/crgm-ecad-release.yaml@main
     with:
+      name: 'Aquarius Client'
       repo-name: aquarius-client-hw
       file-name: aquarius-client-hw
