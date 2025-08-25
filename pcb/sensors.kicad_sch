@@ -5,7 +5,7 @@
 	(uuid "ca9ba622-b6ed-4d36-99c9-fddfbdc5279f")
 	(paper "A4")
 	(title_block
-		(title "Client Hardware")
+		(title "Client")
 		(date "<<release-date>>")
 		(rev "<<tag>>")
 		(comment 1 "<<hash>>")
@@ -2524,6 +2524,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "HDC1080"
+			(at 82.55 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "44f6e19c-ca4d-428c-86a3-e87cd1fc86ca")
 		)
@@ -3700,6 +3709,15 @@
 		)
 		(property "LCSC" "C364577"
 			(at 82.55 110.236 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LTR-303ALS-01"
+			(at 82.55 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)

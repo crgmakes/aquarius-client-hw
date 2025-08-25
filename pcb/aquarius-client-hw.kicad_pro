@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.25
+          "min_clearance": 0.15
         }
       },
       "diff_pair_dimensions": [
@@ -468,6 +468,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -478,7 +479,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "env-module.kicad_pro",
+    "filename": "aquarius-client-hw.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -536,10 +537,6 @@
       {
         "netclass": "Power",
         "pattern": "GND"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "V5_RAW"
       },
       {
         "netclass": "Power",
@@ -650,31 +647,13 @@
           "group_by": false,
           "label": "LCSC",
           "name": "LCSC",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "LCSC_PN",
-          "name": "LCSC_PN",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MF",
-          "name": "MF",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MN",
-          "name": "MN",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "MPN",
           "name": "MPN",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -698,7 +677,7 @@
           "group_by": false,
           "label": "Tolerance",
           "name": "Tolerance",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -723,11 +702,17 @@
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MN",
+          "name": "MN",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "include_excluded_from_bom": true,
+      "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
       "sort_field": "Reference"

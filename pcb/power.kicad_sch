@@ -5,7 +5,7 @@
 	(uuid "0719e832-1413-43f4-a7d6-5b760ae13c21")
 	(paper "A4")
 	(title_block
-		(title "Client Hardware")
+		(title "Client")
 		(date "<<release-date>>")
 		(rev "<<tag>>")
 		(company "CRG Makes")
@@ -4841,15 +4841,6 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Samsung"
-			(at 33.02 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "CL10B104KO8NNNC"
 			(at 33.02 83.82 0)
 			(effects
@@ -4878,6 +4869,15 @@
 			)
 		)
 		(property "Digikey" "1276-1005-2-ND"
+			(at 33.02 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" "Samsung"
 			(at 33.02 83.82 0)
 			(effects
 				(font
@@ -5316,7 +5316,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "CRG Makes:LED_0603_1608Metric"
 			(at 142.24 41.91 0)
 			(effects
 				(font
@@ -5565,7 +5565,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Samsung"
+		(property "MN" "Samsung"
 			(at 55.88 83.82 0)
 			(effects
 				(font
@@ -5867,16 +5867,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C86781"
-			(at 44.45 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "STMicroeletronics"
+		(property "MN" "STMicroeletronics"
 			(at 44.45 78.74 0)
 			(effects
 				(font
@@ -6678,7 +6669,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "CRG Makes:LED_0603_1608Metric"
 			(at 130.81 41.91 0)
 			(effects
 				(font

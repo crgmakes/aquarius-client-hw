@@ -5,7 +5,7 @@
 	(uuid "9def96dd-0c62-498d-8961-f9b6677a2968")
 	(paper "A4")
 	(title_block
-		(title "Client Hardware")
+		(title "Client")
 		(date "<<release-date>>")
 		(rev "<<tag>>")
 		(comment 1 "<<hash>>")
@@ -5643,7 +5643,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 125.476 62.484 90)
 			(effects
 				(font
@@ -6105,7 +6105,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-666"
+		(property "Footprint" "CRGM Passive:SOT-666"
 			(at 247.396 47.371 0)
 			(effects
 				(font
@@ -6234,7 +6234,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 119.126 62.484 90)
 			(effects
 				(font
@@ -6733,7 +6733,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A105KB8NNNC"
+		(property "MPN" "CL10B104KO8NNNC"
 			(at 118.11 33.02 0)
 			(effects
 				(font
@@ -6742,7 +6742,25 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C15849"
+		(property "LCSC" "C66501"
+			(at 118.11 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "1276-1005-2-ND"
+			(at 118.11 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "187-CL10B104KO8NNNC"
 			(at 118.11 33.02 0)
 			(effects
 				(font
@@ -7459,7 +7477,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 106.426 62.484 90)
 			(effects
 				(font
@@ -8925,6 +8943,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 110.49 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5d91ceff-b002-4159-af35-e71ab3e510fd")
 		)
@@ -9472,6 +9499,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ESP32-S3-WROOM-1-N8R2"
+			(at 62.23 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "49396cda-3860-4c00-8929-c7cc50fcbb5d")
 		)
@@ -9696,7 +9732,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 112.776 62.484 90)
 			(effects
 				(font
