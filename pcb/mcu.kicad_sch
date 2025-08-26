@@ -6535,7 +6535,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 100nF 16V X5R 0603"
 			(at 219.71 50.8 0)
 			(effects
 				(font
@@ -6715,7 +6715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 100nF 16V X5R 0603"
 			(at 118.11 33.02 0)
 			(effects
 				(font

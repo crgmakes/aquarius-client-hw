@@ -659,7 +659,7 @@
           "group_by": false,
           "label": "Mouser",
           "name": "Mouser",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -707,7 +707,7 @@
           "group_by": false,
           "label": "MN",
           "name": "MN",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",
