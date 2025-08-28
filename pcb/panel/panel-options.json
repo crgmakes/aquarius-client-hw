@@ -1,9 +1,9 @@
 {
     "layout": {
         "hspace": "2mm",
-        "vspace": "2mm",
+        "vspace": "8mm",
         "rows": "2",
-        "cols": "2"
+        "cols": "1"
     },
     "tabs": {
         "type": "fixed",
