@@ -30,10 +30,10 @@
 				(effects
 					(font
 						(size 1.778 1.778)
-						(thickness 0.3556)
-						(bold yes)
+						(thickness 0.2223)
 					)
 					(justify left top)
+					(hide yes)
 				)
 			)
 			(property "Footprint" "CRGM Connector:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
@@ -45,8 +45,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+				(at 0 -23.876 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -56,6 +56,51 @@
 			)
 			(property "Description" "JST SH 1.0mm 3 Position"
 				(at 2.032 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MN" "JST"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "BM04B-SRSS-TB"
+				(at 0 -14.478 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+				(at 0 -18.796 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Mouser" "306-BM04BSRSSTBTLFSN"
+				(at 0 -21.336 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C2919601"
+				(at 0 -16.51 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -192,6 +237,7 @@
 						(bold yes)
 					)
 					(justify left top)
+					(hide yes)
 				)
 			)
 			(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
@@ -413,10 +459,11 @@
 						(bold yes)
 					)
 					(justify left top)
+					(hide yes)
 				)
 			)
 			(property "Footprint" "CRGM Connector:JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical"
-				(at 3.048 5.842 0)
+				(at 0 -40.64 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -424,8 +471,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+				(at 0 -42.926 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -434,7 +481,7 @@
 				)
 			)
 			(property "Description" "8 position, 1mm connector"
-				(at 4.826 -25.654 0)
+				(at 0 -38.354 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -443,7 +490,7 @@
 				)
 			)
 			(property "MN" "JST"
-				(at 3.81 -24.13 0)
+				(at 0.254 -26.416 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -452,7 +499,7 @@
 				)
 			)
 			(property "MPN" "BM08B-SRSS-TB(LF)(SN)"
-				(at 3.81 -27.686 0)
+				(at 0.254 -29.972 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -461,7 +508,7 @@
 				)
 			)
 			(property "Mouser" "306-BM08BSRSSTBLFSN"
-				(at 3.302 -31.496 0)
+				(at -0.254 -33.782 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -470,7 +517,7 @@
 				)
 			)
 			(property "Digikey" "455-BM08B-SRSS-TBTR-ND"
-				(at 4.572 -29.718 0)
+				(at 1.016 -32.004 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -479,7 +526,7 @@
 				)
 			)
 			(property "LCSC" "C2845376"
-				(at 2.54 -33.274 0)
+				(at -1.016 -35.56 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4826,7 +4873,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical"
-			(at 201.422 24.638 0)
+			(at 204.47 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4834,8 +4881,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 204.47 30.48 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 204.47 73.406 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4844,7 +4891,7 @@
 			)
 		)
 		(property "Description" "8 position, 1mm connector"
-			(at 204.47 30.48 0)
+			(at 204.47 68.834 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4853,7 +4900,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 204.47 30.48 0)
+			(at 204.216 56.896 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4862,7 +4909,7 @@
 			)
 		)
 		(property "MPN" "BM08B-SRSS-TB(LF)(SN)"
-			(at 204.47 30.48 0)
+			(at 204.216 60.452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4871,7 +4918,7 @@
 			)
 		)
 		(property "LCSC" "C2845376"
-			(at 204.47 30.48 0)
+			(at 205.486 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4880,7 +4927,7 @@
 			)
 		)
 		(property "Mouser" "306-BM08BSRSSTBLFSN"
-			(at 204.47 30.48 0)
+			(at 204.724 64.262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4889,7 +4936,7 @@
 			)
 		)
 		(property "Digikey" "455-BM08B-SRSS-TBTR-ND"
-			(at 204.47 30.48 0)
+			(at 203.454 62.484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5064,8 +5111,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 105.41 138.43 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 105.41 162.306 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5083,7 +5130,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 105.41 138.43 0)
+			(at 105.41 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5092,7 +5139,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 105.41 138.43 0)
+			(at 105.41 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5101,7 +5148,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TB"
-			(at 105.41 138.43 0)
+			(at 105.41 152.908 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5110,7 +5157,16 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 105.41 138.43 0)
+			(at 105.41 159.766 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+			(at 105.41 157.226 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5175,7 +5231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD5V0S1BB.pdf"
 			(at 148.59 135.89 0)
 			(effects
 				(font
@@ -6100,8 +6156,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 64.77 130.81 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 64.77 154.686 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6119,7 +6175,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 64.77 130.81 0)
+			(at 64.77 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6128,7 +6184,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 64.77 130.81 0)
+			(at 64.77 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6137,7 +6193,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TB"
-			(at 64.77 130.81 0)
+			(at 64.77 145.288 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6146,7 +6202,7 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 64.77 130.81 0)
+			(at 64.77 152.146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6154,8 +6210,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
-			(at 64.77 130.81 0)
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+			(at 64.77 149.606 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6530,8 +6586,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 64.77 118.11 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 64.77 141.986 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6549,7 +6605,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 64.77 118.11 0)
+			(at 64.77 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6558,7 +6614,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 64.77 118.11 0)
+			(at 64.77 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6567,7 +6623,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TB"
-			(at 64.77 118.11 0)
+			(at 64.77 132.588 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6576,7 +6632,7 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 64.77 118.11 0)
+			(at 64.77 139.446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6584,8 +6640,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
-			(at 64.77 118.11 0)
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+			(at 64.77 136.906 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7119,8 +7175,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 26.67 57.15 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 26.67 81.026 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7138,7 +7194,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 26.67 57.15 0)
+			(at 26.67 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7147,7 +7203,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 26.67 57.15 0)
+			(at 26.67 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7156,7 +7212,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TB"
-			(at 26.67 57.15 0)
+			(at 26.67 71.628 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7165,7 +7221,16 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 26.67 57.15 0)
+			(at 26.67 78.486 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+			(at 26.67 75.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7230,8 +7295,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 64.77 92.71 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 64.77 116.586 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7249,7 +7314,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 64.77 92.71 0)
+			(at 64.77 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7258,7 +7323,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 64.77 92.71 0)
+			(at 64.77 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7267,7 +7332,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TB"
-			(at 64.77 92.71 0)
+			(at 64.77 107.188 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7276,7 +7341,7 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 64.77 92.71 0)
+			(at 64.77 114.046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7284,8 +7349,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
-			(at 64.77 92.71 0)
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+			(at 64.77 111.506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7417,8 +7482,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 64.77 105.41 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 64.77 129.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7436,7 +7501,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 64.77 105.41 0)
+			(at 64.77 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7445,7 +7510,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 64.77 105.41 0)
+			(at 64.77 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7454,7 +7519,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TB"
-			(at 64.77 105.41 0)
+			(at 64.77 119.888 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7463,7 +7528,7 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 64.77 105.41 0)
+			(at 64.77 126.746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7471,8 +7536,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
-			(at 64.77 105.41 0)
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+			(at 64.77 124.206 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7538,8 +7603,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 105.41 125.73 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 105.41 149.606 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7557,7 +7622,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 105.41 125.73 0)
+			(at 105.41 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7566,7 +7631,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 105.41 125.73 0)
+			(at 105.41 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7575,7 +7640,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TB"
-			(at 105.41 125.73 0)
+			(at 105.41 140.208 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7584,7 +7649,16 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 105.41 125.73 0)
+			(at 105.41 147.066 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+			(at 105.41 144.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7649,7 +7723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD5V0S1BB.pdf"
 			(at 138.43 135.89 0)
 			(effects
 				(font
@@ -7753,6 +7827,7 @@
 					(size 1.27 1.27)
 					(thickness 0.2223)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
@@ -8035,6 +8110,7 @@
 					(size 1.27 1.27)
 					(thickness 0.2223)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
@@ -8301,7 +8377,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD5V0S1BB.pdf"
 			(at 55.88 142.24 0)
 			(effects
 				(font
@@ -9669,6 +9745,7 @@
 					(thickness 0.1588)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
@@ -9680,8 +9757,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 34.29 29.21 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 34.29 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9699,7 +9776,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 34.29 29.21 0)
+			(at 34.29 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9708,7 +9785,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 34.29 29.21 0)
+			(at 34.29 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9717,7 +9794,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TB"
-			(at 34.29 29.21 0)
+			(at 34.29 43.688 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9726,7 +9803,16 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 34.29 29.21 0)
+			(at 34.29 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+			(at 34.29 48.006 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10390,7 +10476,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2763614"
 			(at 188.468 105.41 0)
 			(effects
 				(font
@@ -10459,7 +10545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD5V0S1BB.pdf"
 			(at 45.72 142.24 0)
 			(effects
 				(font
@@ -10708,7 +10794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD5V0S1BB.pdf"
 			(at 50.8 142.24 0)
 			(effects
 				(font
@@ -10914,7 +11000,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical"
-			(at 146.812 22.098 0)
+			(at 149.86 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10922,8 +11008,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 149.86 27.94 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 149.86 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10932,7 +11018,7 @@
 			)
 		)
 		(property "Description" "8 position, 1mm connector"
-			(at 149.86 27.94 0)
+			(at 149.86 66.294 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10941,7 +11027,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 149.86 27.94 0)
+			(at 149.606 54.356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10950,7 +11036,7 @@
 			)
 		)
 		(property "MPN" "BM08B-SRSS-TB(LF)(SN)"
-			(at 149.86 27.94 0)
+			(at 149.606 57.912 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10959,7 +11045,7 @@
 			)
 		)
 		(property "LCSC" "C2845376"
-			(at 149.86 27.94 0)
+			(at 150.876 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10968,7 +11054,7 @@
 			)
 		)
 		(property "Mouser" "306-BM08BSRSSTBLFSN"
-			(at 149.86 27.94 0)
+			(at 150.114 61.722 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10977,7 +11063,7 @@
 			)
 		)
 		(property "Digikey" "455-BM08B-SRSS-TBTR-ND"
-			(at 149.86 27.94 0)
+			(at 148.844 59.944 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11445,7 +11531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD5V0S1BB.pdf"
 			(at 143.51 135.89 0)
 			(effects
 				(font
@@ -11919,6 +12005,7 @@
 					(bold yes)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
@@ -11930,8 +12017,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 105.41 97.79 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 105.41 121.666 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11949,7 +12036,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 105.41 97.79 0)
+			(at 105.41 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11958,7 +12045,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 105.41 97.79 0)
+			(at 105.41 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11967,7 +12054,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TB"
-			(at 105.41 97.79 0)
+			(at 105.41 112.268 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11976,7 +12063,16 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 105.41 97.79 0)
+			(at 105.41 119.126 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+			(at 105.41 116.586 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12228,6 +12324,7 @@
 					(bold yes)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
@@ -12239,8 +12336,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 105.41 85.09 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 105.41 108.966 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12258,7 +12355,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 105.41 85.09 0)
+			(at 105.41 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12267,7 +12364,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 105.41 85.09 0)
+			(at 105.41 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12276,7 +12373,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TB"
-			(at 105.41 85.09 0)
+			(at 105.41 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12285,7 +12382,16 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 105.41 85.09 0)
+			(at 105.41 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+			(at 105.41 103.886 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12417,7 +12523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD5V0S1BB.pdf"
 			(at 40.64 142.24 0)
 			(effects
 				(font
@@ -12703,7 +12809,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2763614"
 			(at 188.468 87.63 0)
 			(effects
 				(font
@@ -12875,7 +12981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD5V0S1BB.pdf"
 			(at 133.35 135.89 0)
 			(effects
 				(font
