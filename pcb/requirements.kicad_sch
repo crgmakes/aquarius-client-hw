@@ -20324,7 +20324,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Logos:Aquarius Logo 5mm"
+		(property "Footprint" "CRGM Logos:Aquarius Logo 8mm"
 			(at 24.384 189.738 0)
 			(effects
 				(font
@@ -20676,7 +20676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Logos:Roxy 6.5mm"
+		(property "Footprint" "CRGM Logos:Roxy 8mm"
 			(at 55.88 194.818 0)
 			(effects
 				(font
