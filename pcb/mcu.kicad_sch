@@ -7054,6 +7054,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 72.39 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5acdbd18-3466-436e-88c1-45b134dbaefe")
 		)
@@ -7816,6 +7825,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 219.71 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc03351c-df5e-48bc-ad5b-106d43d63642")
 		)
@@ -8061,6 +8079,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 142.24 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "813b7a4c-63ae-4b3c-9246-307bed410f19")
 		)
@@ -8167,6 +8194,15 @@
 			)
 		)
 		(property "Mouser" "187-CL10B105KO8NNNC"
+			(at 223.52 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
 			(at 223.52 101.6 0)
 			(effects
 				(font
@@ -8450,7 +8486,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 26.67 113.03 0)
 			(effects
 				(font
@@ -8505,6 +8541,15 @@
 			)
 		)
 		(property "LCSC" "C2930027"
+			(at 26.67 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 26.67 113.03 0)
 			(effects
 				(font
@@ -9218,7 +9263,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 210.82 50.8 0)
 			(effects
 				(font
@@ -9227,7 +9272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 5.1Kohms 5%"
 			(at 210.82 50.8 0)
 			(effects
 				(font
@@ -9263,7 +9308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "118-CR0603-JW-512ELFTR-ND"
+		(property "Digikey" "CR0603-JW-512ELFTR-ND"
 			(at 210.82 50.8 0)
 			(effects
 				(font
@@ -9273,6 +9318,15 @@
 			)
 		)
 		(property "LCSC" "C2907114"
+			(at 210.82 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 210.82 50.8 0)
 			(effects
 				(font
@@ -10421,6 +10475,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 139.7 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2c8a8a47-378a-4edb-8fb8-7785f0916bb9")
 		)
@@ -10791,7 +10854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 177.8 120.65 0)
 			(effects
 				(font
@@ -10847,6 +10910,15 @@
 		)
 		(property "Mouser" "652-CR0603-JW-102ELF"
 			(at 177.8 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 177.8 120.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11248,6 +11320,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 33.02 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "522c7aa3-d109-436a-9792-3049eeb50fce")
 		)
@@ -11458,7 +11539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 203.2 50.8 0)
 			(effects
 				(font
@@ -11467,7 +11548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 5.1Kohms 5%"
 			(at 203.2 50.8 0)
 			(effects
 				(font
@@ -11503,7 +11584,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "118-CR0603-JW-512ELFTR-ND"
+		(property "Digikey" "CR0603-JW-512ELFTR-ND"
 			(at 203.2 50.8 0)
 			(effects
 				(font
@@ -11513,6 +11594,15 @@
 			)
 		)
 		(property "LCSC" "C2907114"
+			(at 203.2 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 203.2 50.8 0)
 			(effects
 				(font

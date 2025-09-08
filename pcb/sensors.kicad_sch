@@ -1889,7 +1889,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 69.85 104.14 0)
 			(effects
 				(font
@@ -1944,6 +1944,15 @@
 			)
 		)
 		(property "LCSC" "C2907168"
+			(at 69.85 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 69.85 104.14 0)
 			(effects
 				(font
@@ -2859,6 +2868,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 110.49 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4fba25c5-1494-4cf6-9533-f50bdde923cf")
 		)
@@ -3183,7 +3201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 80.01 30.48 0)
 			(effects
 				(font
@@ -3192,7 +3210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 4.7Kohms 5%"
 			(at 80.01 30.48 0)
 			(effects
 				(font
@@ -3228,7 +3246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "541-3993-2-ND"
+		(property "Digikey" "CR0603-JW-472ELFTR-ND"
 			(at 80.01 30.48 0)
 			(effects
 				(font
@@ -3237,7 +3255,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "71-CRCW06034K70JNEAC"
+		(property "Mouser" "652-CR0603-JW-472ELF"
+			(at 80.01 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 80.01 30.48 0)
 			(effects
 				(font
@@ -3428,7 +3455,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 72.39 30.48 0)
 			(effects
 				(font
@@ -3437,7 +3464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 4.7Kohms 5%"
 			(at 72.39 30.48 0)
 			(effects
 				(font
@@ -3464,7 +3491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "71-CRCW06034K70JNEAC"
+		(property "Mouser" "652-CR0603-JW-472ELF"
 			(at 72.39 30.48 0)
 			(effects
 				(font
@@ -3473,7 +3500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "541-3993-2-ND"
+		(property "Digikey" "CR0603-JW-472ELFTR-ND"
 			(at 72.39 30.48 0)
 			(effects
 				(font
@@ -3483,6 +3510,15 @@
 			)
 		)
 		(property "LCSC" "C2907166"
+			(at 72.39 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 72.39 30.48 0)
 			(effects
 				(font
@@ -3918,6 +3954,15 @@
 			)
 		)
 		(property "LCSC" "C66501"
+			(at 113.03 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
 			(at 113.03 80.01 0)
 			(effects
 				(font

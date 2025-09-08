@@ -249,7 +249,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -331,6 +331,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b2398c77-a80d-4c03-82e9-142faecf10f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d728ed49-e8fc-43ce-b2da-26eb7c83dcc5")
 			(effects
 				(font
 					(size 1 1)
@@ -21094,7 +21107,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -21176,6 +21189,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3973300d-5060-43aa-8e94-e2e1dbad0a93")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1259837-5a36-46f7-965d-05e34dc7b7f9")
 			(effects
 				(font
 					(size 1 1)
@@ -23268,7 +23294,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -23350,6 +23376,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ce5981cf-a6f9-4a5c-b17b-c3c67d16a464")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "95a11c59-30c4-47c8-bdb0-e96989f4b947")
 			(effects
 				(font
 					(size 1 1)
@@ -24060,6 +24099,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "03dc1b79-37bb-4dbf-863c-bf0d8e72847a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19f4be06-a6be-4acf-ad2d-c4313d439259")
 			(effects
 				(font
 					(size 1 1)
@@ -25396,6 +25448,19 @@
 				)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "380c7211-ae73-46bc-86f3-9cf041c8dc38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/496f3e28-621c-4ae3-8c95-fca1a83b0d02/250bf930-8c8d-4237-86fb-aeee931e7f7f")
 		(sheetname "/MCU/")
@@ -25655,6 +25720,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1fece50d-735d-4277-a638-c2f2e84dfd2a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "116bc333-a0fb-4e65-b6b4-43f9434a4491")
 			(effects
 				(font
 					(size 1 1)
@@ -27658,7 +27736,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27671,7 +27749,7 @@
 				)
 			)
 		)
-		(property "Description" "I2C Qwiic Connector 1mm pitch JST"
+		(property "Description" "4 Position, 1mm pitch"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28329,6 +28407,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4e1dffb3-bf0b-4f85-8f38-929d8f9883c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "69031306-43c1-477e-8dc2-94ff1fe5e861")
 			(effects
 				(font
 					(size 1 1)
@@ -30075,6 +30166,19 @@
 				)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1fba86c-a4ab-45e5-8886-e80a636140c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/496f3e28-621c-4ae3-8c95-fca1a83b0d02/6bdc79bc-1d56-4de3-9fba-03a2d5372260")
 		(sheetname "/MCU/")
@@ -30665,6 +30769,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a6945ffe-8e7e-4cbf-af94-5e0706553018")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2726415a-f9e2-4edb-a916-f2217109fb08")
 			(effects
 				(font
 					(size 1 1)
@@ -32771,6 +32888,19 @@
 				)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9862a8c8-3d13-4f75-8f5a-8e0309bcd4d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8b65c3bb-c502-4d13-98d1-dda44bbee4a3/536a3f1e-ed29-4e58-b54b-11e5619818f4")
 		(sheetname "/Power/")
@@ -33179,7 +33309,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -33261,6 +33391,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9ff7b3df-3ebe-4590-87b9-0233107f2b37")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e161745-103e-43b4-9e0f-256dead5dc96")
 			(effects
 				(font
 					(size 1 1)
@@ -35972,7 +36115,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35984,7 +36127,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 5.1Kohms 5%"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36035,7 +36178,7 @@
 				)
 			)
 		)
-		(property "Digikey" "118-CR0603-JW-512ELFTR-ND"
+		(property "Digikey" "CR0603-JW-512ELFTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36054,6 +36197,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8ce41649-cec3-4859-8615-1f89f3c7682e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "705c326a-46ec-4891-84c1-2bba76e12964")
 			(effects
 				(font
 					(size 1 1)
@@ -37664,7 +37820,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -37746,6 +37902,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "40dfab2e-a339-4d10-96a9-7177b09453e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6bfa37b5-9164-4bd3-8f06-0e20b4039ec0")
 			(effects
 				(font
 					(size 1 1)
@@ -40817,6 +40986,19 @@
 				)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a9e1160-2df3-49a0-9736-7c3abadf582b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/496f3e28-621c-4ae3-8c95-fca1a83b0d02/501e5580-8fcf-4e1f-97dd-d73a9080107e")
 		(sheetname "/MCU/")
@@ -41071,7 +41253,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -41083,7 +41265,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 4.7Kohms 5%"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -41121,7 +41303,7 @@
 				)
 			)
 		)
-		(property "Mouser" "71-CRCW06034K70JNEAC"
+		(property "Mouser" "652-CR0603-JW-472ELF"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41134,7 +41316,7 @@
 				)
 			)
 		)
-		(property "Digikey" "541-3993-2-ND"
+		(property "Digikey" "CR0603-JW-472ELFTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41153,6 +41335,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5706fb5f-dfa0-45ba-b4b8-f26e26832242")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35df6a04-99ca-42af-85d7-71ce5709ec2b")
 			(effects
 				(font
 					(size 1 1)
@@ -41743,6 +41938,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7f1296c6-bf49-45b3-b2f7-1201c147f384")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "033c63e4-9b62-4303-941a-bf7416bcaf5c")
 			(effects
 				(font
 					(size 1 1)
@@ -42838,6 +43046,19 @@
 				)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "372ea47d-2eac-469f-8b37-d17da5fa2716")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/496f3e28-621c-4ae3-8c95-fca1a83b0d02/6aee2aac-eb95-404b-95c7-e56e085961a3")
 		(sheetname "/MCU/")
@@ -43015,7 +43236,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -43097,6 +43318,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2281cf04-0fa9-4540-88bf-7d45a9b62936")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e60559a-5bd2-4921-bc20-5ddafe1fe22a")
 			(effects
 				(font
 					(size 1 1)
@@ -43281,7 +43515,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -43363,6 +43597,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "adab0b19-754c-41bf-99cc-a8ff01e3532c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a72f8c00-d366-4750-9d0a-3f91762765cb")
 			(effects
 				(font
 					(size 1 1)
@@ -43637,7 +43884,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -43649,7 +43896,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 4.7Kohms 5%"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -43700,7 +43947,7 @@
 				)
 			)
 		)
-		(property "Digikey" "541-3993-2-ND"
+		(property "Digikey" "CR0603-JW-472ELFTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43713,12 +43960,25 @@
 				)
 			)
 		)
-		(property "Mouser" "71-CRCW06034K70JNEAC"
+		(property "Mouser" "652-CR0603-JW-472ELF"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fc1223a3-d9c6-4924-bc14-59575dd45629")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1b8d951-0947-4786-b1a7-c080ab012da9")
 			(effects
 				(font
 					(size 1 1)
@@ -45628,7 +45888,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -45640,7 +45900,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 4.7Kohms 5%"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -45678,7 +45938,7 @@
 				)
 			)
 		)
-		(property "Mouser" "71-CRCW06034K70JNEAC"
+		(property "Mouser" "652-CR0603-JW-472ELF"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45691,7 +45951,7 @@
 				)
 			)
 		)
-		(property "Digikey" "541-3993-2-ND"
+		(property "Digikey" "CR0603-JW-472ELFTR-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45710,6 +45970,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "606969b2-929e-4eaa-87e1-1521cb5c53de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e7c8b5e-7c51-4ad7-b192-7e4f6c2877ba")
 			(effects
 				(font
 					(size 1 1)
@@ -47095,7 +47368,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -47107,7 +47380,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 5.1Kohms 5%"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -47158,7 +47431,7 @@
 				)
 			)
 		)
-		(property "Digikey" "118-CR0603-JW-512ELFTR-ND"
+		(property "Digikey" "CR0603-JW-512ELFTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -47177,6 +47450,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7f9f37cb-b823-4058-abc6-618bf5b50a52")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3601fed6-4847-4455-a393-ad98db53c201")
 			(effects
 				(font
 					(size 1 1)
@@ -47966,7 +48252,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -47979,7 +48265,7 @@
 				)
 			)
 		)
-		(property "Description" "I2C Qwiic Connector 1mm pitch JST"
+		(property "Description" "4 Position, 1mm pitch"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -52997,7 +53283,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -53009,7 +53295,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 1Kohms 5%"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -53021,7 +53307,7 @@
 				)
 			)
 		)
-		(property "MN" "Vishay"
+		(property "MN" "FOJAN"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -53034,7 +53320,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW06031K00FKEA"
+		(property "MPN" "FRC0603J102 TS"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -53047,7 +53333,7 @@
 				)
 			)
 		)
-		(property "Mouser" "71-CRCW06031K00JNEAC"
+		(property "Mouser" "652-CR0603-JW-102ELF"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -53060,7 +53346,7 @@
 				)
 			)
 		)
-		(property "Digikey" "541-3991-2-ND"
+		(property "Digikey" "CR0603-JW-102ELFTR-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -53079,6 +53365,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7939db69-d8e1-493b-a96c-c8a320e1d4c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9387ddb2-7717-4b93-af90-8ae3920af850")
 			(effects
 				(font
 					(size 1 1)
@@ -53445,6 +53744,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0842aa0a-3cdb-4a8a-a8f8-c18b9c6ff14b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "377da0ca-57a7-4ba6-ad83-683a717689dc")
 			(effects
 				(font
 					(size 1 1)

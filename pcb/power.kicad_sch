@@ -3439,7 +3439,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 142.24 34.29 0)
 			(effects
 				(font
@@ -3449,7 +3449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 1Kohms 5%"
 			(at 142.24 34.29 0)
 			(effects
 				(font
@@ -3458,7 +3458,7 @@
 				(hide yes)
 			)
 		)
-		(property "MN" "Vishay"
+		(property "MN" "FOJAN"
 			(at 142.24 34.29 0)
 			(effects
 				(font
@@ -3467,7 +3467,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW06031K00FKEA"
+		(property "MPN" "FRC0603J102 TS"
 			(at 142.24 34.29 0)
 			(effects
 				(font
@@ -3476,7 +3476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "71-CRCW06031K00JNEAC"
+		(property "Mouser" "652-CR0603-JW-102ELF"
 			(at 142.24 34.29 0)
 			(effects
 				(font
@@ -3486,7 +3486,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "541-3991-2-ND"
+		(property "Digikey" "CR0603-JW-102ELFTR-ND"
 			(at 142.24 34.29 0)
 			(effects
 				(font
@@ -3502,6 +3502,15 @@
 				(font
 					(size 1 1)
 					(color 223 129 255 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 142.24 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
@@ -4442,6 +4451,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 54.61 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "541b8b37-f80e-47fd-9ac7-bb7d7fe456e6")
 		)
@@ -4841,6 +4859,15 @@
 			)
 		)
 		(property "MN" "Samsung"
+			(at 31.75 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
 			(at 31.75 87.63 0)
 			(effects
 				(font
@@ -6128,7 +6155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 130.81 34.29 0)
 			(effects
 				(font
@@ -6138,7 +6165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 4.7Kohms 5%"
 			(at 130.81 34.29 0)
 			(effects
 				(font
@@ -6165,7 +6192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "71-CRCW06034K70JNEAC"
+		(property "Mouser" "652-CR0603-JW-472ELF"
 			(at 130.81 34.29 0)
 			(effects
 				(font
@@ -6175,7 +6202,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "541-3993-2-ND"
+		(property "Digikey" "CR0603-JW-472ELFTR-ND"
 			(at 130.81 34.29 0)
 			(effects
 				(font
@@ -6191,6 +6218,15 @@
 				(font
 					(size 1 1)
 					(color 223 129 255 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 130.81 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
@@ -7324,6 +7360,15 @@
 			)
 		)
 		(property "Height" ""
+			(at 62.23 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
 			(at 62.23 87.63 0)
 			(effects
 				(font
