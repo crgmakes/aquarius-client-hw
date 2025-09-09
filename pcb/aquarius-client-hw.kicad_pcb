@@ -20573,7 +20573,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2904985"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20599,7 +20599,7 @@
 				)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TB"
+		(property "MPN" "BM03B-SRSS-TB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20612,7 +20612,7 @@
 				)
 			)
 		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+		(property "Mouser" "306-BM03BSRSSTBTLFSN"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20625,7 +20625,7 @@
 				)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27178,7 +27178,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2904985"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27204,7 +27204,7 @@
 				)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TB"
+		(property "MPN" "BM03B-SRSS-TB"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27217,7 +27217,7 @@
 				)
 			)
 		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+		(property "Mouser" "306-BM03BSRSSTBTLFSN"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27230,7 +27230,7 @@
 				)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27814,7 +27814,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2904986"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28681,7 +28681,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2763614"
+		(property "LCSC" "C2904986"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31782,7 +31782,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2904985"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31808,7 +31808,7 @@
 				)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TB"
+		(property "MPN" "BM03B-SRSS-TB"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31821,7 +31821,7 @@
 				)
 			)
 		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+		(property "Mouser" "306-BM03BSRSSTBTLFSN"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31834,7 +31834,7 @@
 				)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33885,7 +33885,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2763614"
+		(property "LCSC" "C2904986"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34395,7 +34395,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2904985"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34421,7 +34421,7 @@
 				)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TB"
+		(property "MPN" "BM03B-SRSS-TB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34434,7 +34434,7 @@
 				)
 			)
 		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+		(property "Mouser" "306-BM03BSRSSTBTLFSN"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34447,7 +34447,7 @@
 				)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34968,7 +34968,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2904985"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34994,7 +34994,7 @@
 				)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TB"
+		(property "MPN" "BM03B-SRSS-TB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35007,7 +35007,7 @@
 				)
 			)
 		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+		(property "Mouser" "306-BM03BSRSSTBTLFSN"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35020,7 +35020,7 @@
 				)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36419,7 +36419,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2904985"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36445,7 +36445,7 @@
 				)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TB"
+		(property "MPN" "BM03B-SRSS-TB"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36458,7 +36458,7 @@
 				)
 			)
 		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+		(property "Mouser" "306-BM03BSRSSTBTLFSN"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36471,7 +36471,7 @@
 				)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45286,7 +45286,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2904985"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45312,7 +45312,7 @@
 				)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TB"
+		(property "MPN" "BM03B-SRSS-TB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45325,7 +45325,7 @@
 				)
 			)
 		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+		(property "Mouser" "306-BM03BSRSSTBTLFSN"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45338,7 +45338,7 @@
 				)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46376,7 +46376,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2904985"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46402,7 +46402,7 @@
 				)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TB"
+		(property "MPN" "BM03B-SRSS-TB"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46415,7 +46415,7 @@
 				)
 			)
 		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+		(property "Mouser" "306-BM03BSRSSTBTLFSN"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46428,7 +46428,7 @@
 				)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -48330,7 +48330,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2904986"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49479,7 +49479,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2904985"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49505,7 +49505,7 @@
 				)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TB"
+		(property "MPN" "BM03B-SRSS-TB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49518,7 +49518,7 @@
 				)
 			)
 		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+		(property "Mouser" "306-BM03BSRSSTBTLFSN"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49531,7 +49531,7 @@
 				)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51336,7 +51336,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2904985"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51362,7 +51362,7 @@
 				)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TB"
+		(property "MPN" "BM03B-SRSS-TB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51375,7 +51375,7 @@
 				)
 			)
 		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+		(property "Mouser" "306-BM03BSRSSTBTLFSN"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51388,7 +51388,7 @@
 				)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
