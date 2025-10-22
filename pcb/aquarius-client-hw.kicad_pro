@@ -635,7 +635,7 @@
           "group_by": false,
           "label": "Digikey",
           "name": "Digikey",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -647,19 +647,19 @@
           "group_by": false,
           "label": "LCSC",
           "name": "LCSC",
-          "show": true
+          "show": false
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "MPN",
           "name": "MPN",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Mouser",
           "name": "Mouser",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -683,7 +683,7 @@
           "group_by": false,
           "label": "WVDC",
           "name": "WVDC",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,
@@ -707,7 +707,7 @@
           "group_by": false,
           "label": "MN",
           "name": "MN",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
