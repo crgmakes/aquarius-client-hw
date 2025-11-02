@@ -1265,7 +1265,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "I2C Address: 0x80"
+	(text "I2C Address: 0x40"
 		(exclude_from_sim no)
 		(at 121.666 50.038 0)
 		(effects
