@@ -5444,7 +5444,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CRG Makes:LED_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:LED_0603_1608Metric"
 			(at 142.24 41.91 0)
 			(effects
 				(font
@@ -6890,7 +6890,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CRG Makes:LED_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:LED_0603_1608Metric"
 			(at 130.81 41.91 0)
 			(effects
 				(font
